@@ -1,1 +1,1 @@
-Website framework includes use of bootstrap and RESTful API.  To be included are cloudinary env variables.
+Sample includes use of bootstrap, RESTful API, and material discussed at the end of web developer bootcamp.  
